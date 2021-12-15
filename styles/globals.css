@@ -1,0 +1,43 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+
+.ciao{
+  color: #FFFFFF;
+}
+.acto{
+color: #33E402;
+}
+
+.acto:hover{
+  color: #FFFFFF;
+  }
+.sua{
+  cursor: pointer;
+
+  }
+  .henc{
+    width: 20%;
+    height: 40%;
+  }
+  .vim{
+    font-size: larger;
+  }
+  .saga{
+    width: 70px;
+    height: 98px;
+  }
